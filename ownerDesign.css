@@ -1,0 +1,36 @@
+
+.total3 {
+    width: 70%;
+    float: left;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+table, th, td {
+  border: 1px solid black;
+}
+
+
+.total4 {
+    width: 30%;
+    float: left;
+    height: 500px;
+    padding-top: 20px;
+    background-color: #E1E1E1;
+
+}
+
+
+.head {
+    text-align: center;
+            padding-top: 30px;
+}
+
+.mtext {
+            width: 200px;
+    
+}
+
+.total5 {
+    text-align: center;
+    padding-top: 40px;
+}
